@@ -13,7 +13,7 @@ function put_line
 	printf "$1"
 }
 
-echo -e "\n" #Put new line
+echo -e "\n" #Put 2 new lines
 
 printf "\x1b[41;97;1m" #41=red BG; 97=bright white FG; 1=bold
 put_line " FBI WARNING "

@@ -23,6 +23,6 @@ W=104:
 ![](Images/3.png)
 
 ***
-Note that the script will draw over your terminal; however, any content on the previous screen will be preserved in the scroll buffer. This is a nice feature by design. See the screenshot below.
+Note that the script will paint over your terminal; however, any content on the previous screen will be preserved in the scroll buffer. This is a nice feature by design. See the screenshot below.
 
 ![](Images/4.png)
